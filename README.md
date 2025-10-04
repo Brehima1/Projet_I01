@@ -94,6 +94,13 @@ L’objectif est de comparer les comportements **linéaire (m = 1)** et **non li
 
 ---
 
+## Conlusion : 
+- Maîtrise de la **modélisation physique et mathématique de phénomènes complexes**.  
+- Compétences avancées en **analyse numérique, méthodes implicites et résolution non linéaire**.  
+- Capacité à **implémenter et valider des solutions numériques** rigoureuses.  
+- Expérience directement transférable en **R&D, ingénierie, data science et simulation physique**.
+
+
 ##  Auteur
 **Bréhima Samaké**  
 2025  
@@ -101,8 +108,3 @@ L’objectif est de comparer les comportements **linéaire (m = 1)** et **non li
 
 ---
 
-## Conlusion : 
-- Maîtrise de la **modélisation physique et mathématique de phénomènes complexes**.  
-- Compétences avancées en **analyse numérique, méthodes implicites et résolution non linéaire**.  
-- Capacité à **implémenter et valider des solutions numériques** rigoureuses.  
-- Expérience directement transférable en **R&D, ingénierie, data science et simulation physique**.  
