@@ -1,5 +1,5 @@
 # Modélisation et simulation des écoulements de fluides dans la géosphère  
-##SUJET DU PROJET : Équation de diffusion non linéaire et solution auto-semblable
+## SUJET DU PROJET : Équation de diffusion non linéaire et solution auto-semblable
 
 ---
 
